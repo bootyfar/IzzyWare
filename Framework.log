@@ -1,0 +1,81 @@
+﻿  ui.cpp
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\ext\SDK\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Headers\main.h(77,104): warning C4042: 'buf': has bad storage class
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Headers\main.h(95,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Headers\main.h(97,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Headers\main.h(97,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Headers\main.h(97,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Headers\main.h(98,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Headers\main.h(98,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Headers\main.h(99,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Headers\main.h(99,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Headers\main.h(99,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Headers\particles.h(22,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Headers\particles.h(22,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Headers\particles.h(40,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Sources\ui.cpp(52,9): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Sources\ui.cpp(52,9): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Sources\ui.cpp(96,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Sources\ui.cpp(203,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Sources\ui.cpp(205,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\Framework\src\Sources\ui.cpp(235,26): warning C4305: '+=': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  60 of 2329 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+freetype.lib(ftinit.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftinit.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftbase.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftbase.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftsynth.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftsynth.obj)' or at ''; linking object as if no debug info
+freetype.lib(autofit.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(autofit.obj)' or at ''; linking object as if no debug info
+freetype.lib(truetype.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(truetype.obj)' or at ''; linking object as if no debug info
+freetype.lib(type1.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type1.obj)' or at ''; linking object as if no debug info
+freetype.lib(cff.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(cff.obj)' or at ''; linking object as if no debug info
+freetype.lib(type1cid.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type1cid.obj)' or at ''; linking object as if no debug info
+freetype.lib(pfr.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pfr.obj)' or at ''; linking object as if no debug info
+freetype.lib(type42.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type42.obj)' or at ''; linking object as if no debug info
+freetype.lib(winfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(winfnt.obj)' or at ''; linking object as if no debug info
+freetype.lib(pcf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pcf.obj)' or at ''; linking object as if no debug info
+freetype.lib(bdf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(bdf.obj)' or at ''; linking object as if no debug info
+freetype.lib(psaux.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(psaux.obj)' or at ''; linking object as if no debug info
+freetype.lib(psmodule.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(psmodule.obj)' or at ''; linking object as if no debug info
+freetype.lib(pshinter.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pshinter.obj)' or at ''; linking object as if no debug info
+freetype.lib(sfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(sfnt.obj)' or at ''; linking object as if no debug info
+freetype.lib(smooth.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(smooth.obj)' or at ''; linking object as if no debug info
+freetype.lib(raster.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(raster.obj)' or at ''; linking object as if no debug info
+freetype.lib(sdf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(sdf.obj)' or at ''; linking object as if no debug info
+freetype.lib(svg.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(svg.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftsystem.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftsystem.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftbitmap.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftbitmap.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftgzip.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftgzip.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftlzw.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftlzw.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftdebug.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftdebug.obj)' or at ''; linking object as if no debug info
+  Framework.vcxproj -> C:\Users\timot\Downloads\IzzyWare\IzzyWare sr\x64\Release\Framework.exe
